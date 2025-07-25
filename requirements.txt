@@ -1,0 +1,6 @@
+fastapi[standard]
+firebase-admin
+minify-html
+aiohttp
+sqlalchemy-libsql
+sqlmodel
